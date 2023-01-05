@@ -1,13 +1,13 @@
 [FR] Dans ce projet, je fais une démonstration de
 l'implémentation de Spring Security avec 
-Spring Boot 3.0 et Java 17.
+Spring Boot 3.1 et Java 17.
 Ce projet contient d'abord l'enregistrement et la connexion de l'utilisateur avec
 l'authentification basée sur JWT, puis le Cryptage du mot de passe à l'aide de BCrypt.
 . Ensuite, l'autorisation basée sur les rôles avec
 Spring Security. Enfin, la gestion personnalisée des refus d'accès.
 ----------------------------------------------------------------------------------------
 [EN] In this project, I am demoing Spring Security 
-implementation with Spring Boot 3.0 and Java 17. 
+implementation with Spring Boot 3.1 and Java 17. 
 This project contains user registration and login 
 first with JWT based authentication, 
 then Encryption password using BCrypt. 
